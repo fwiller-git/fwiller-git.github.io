@@ -1,0 +1,17 @@
+{
+  "order": 5,
+  "title": "Finji 3D Remake of Splash Art",
+  "description": "This is a 3D re-creation of the Finji splash-art designed by [sleeprealms](https://www.instagram.com/sleeprealms/)\n\nAll the characters as well as the environment were modeled, textured, and rigged using Blender.",
+  "thumbnail": "thumbnail.jpg",
+  "assets": [
+    {
+      "file": "video11.mp4"
+    },
+    {
+      "file": "image18.jpg"
+    },
+    {
+      "file": "image25.jpg"
+    }
+  ]
+}

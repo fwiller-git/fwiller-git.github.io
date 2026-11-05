@@ -1,0 +1,31 @@
+{
+  "hidden": true,
+  "title": "Nausicaä",
+  "description": "Simple game-ready character model based on the wonderful Hayao Miyazaki film, \"Nausicaä\".\n\nModeled, Rigged, Posed in Blender. UV unwrapped in Rizom. Textured in Substance Painter.",
+  "assets": [
+    {
+      "file": "video20.mp4"
+    },
+    {
+      "file": "video23.mp4"
+    },
+    {
+      "file": "video28.mp4"
+    },
+    {
+      "file": "image32.jpg"
+    },
+    {
+      "file": "image33.jpg"
+    },
+    {
+      "file": "image34.jpg"
+    },
+    {
+      "file": "image39.jpg"
+    },
+    {
+      "file": "video29.mp4"
+    }
+  ]
+}

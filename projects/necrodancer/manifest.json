@@ -1,0 +1,25 @@
+{
+  "hidden": true,
+  "title": "Cadence (Crypt of the Necrodancer)",
+  "description": "This is a game-ready 3D model of Cadence from Brace Yourself Games' fantastic roguelike rhythm game Crypt of the Necrodancer. I've been dying to make some fanart of this character ever since I saw the release trailer years ago.\n\nModeled, Rigged, and Rendered in Blender 3.4. Textured in Substance Painter.\n\nTimelapse Recorded using my custom addon [Timelapse Tool](https://fwiller.gumroad.com/l/timelapse)",
+  "assets": [
+    {
+      "file": "video05.mp4"
+    },
+    {
+      "file": "image14.jpg"
+    },
+    {
+      "file": "image15.jpg"
+    },
+    {
+      "file": "image16.jpg"
+    },
+    {
+      "file": "image17.jpg"
+    },
+    {
+      "file": "video06.mp4"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "hidden": true,
+  "title": "Swimsanity",
+  "description": "This is a 3D recreation of promo-art for SwimSanity (a game by Decoy Games). Sculpt, retopo, rigging, and rendering were done in Blender, and texturing was done in Substance Painter.\n\nTimelapse Video was made using my custom python Blender addon \"[Timelapse Tool](https://fwiller.gumroad.com/l/timelapse)\"",
+  "assets": [
+    {
+      "file": "video14.mp4"
+    },
+    {
+      "file": "image26.jpg"
+    },
+    {
+      "file": "image27.jpg"
+    },
+    {
+      "file": "video15.mp4"
+    },
+    {
+      "file": "video16.mp4"
+    }
+  ]
+}

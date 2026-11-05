@@ -1,0 +1,19 @@
+{
+  "hidden": true,
+  "title": "SemiSpri",
+  "description": "This is a game-ready 3D model of the OC of artist [SemiSpri](https://www.twitch.tv/semispri). They're a wonderful streamer with an incredibly positive community and I highly recommend checking them out.\n\nModeled, Rigged, and Rendered in Blender 3.5 Textured in Substance Painter",
+  "assets": [
+    {
+      "file": "video07.mp4"
+    },
+    {
+      "file": "image03.jpg"
+    },
+    {
+      "file": "image13.jpg"
+    },
+    {
+      "file": "video08.mp4"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "hidden": true,
+  "title": "OKTO DanceIt",
+  "description": "Here's a mobile-ready 3D Model based on the pitch deck for OKTO's dancing game.\n\nThey are 7984 tris with a single 512px png texture. Rigged and skinned for animation.\n\nModeled, Rigged in Blender 4.0. Textured in Substance Painter. Tested in Unity 2021.3.26",
+  "assets": [
+    {
+      "file": "video21.mp4"
+    },
+    {
+      "file": "video22.mp4"
+    },
+    {
+      "file": "image29.jpg"
+    },
+    {
+      "file": "image30.jpg"
+    },
+    {
+      "file": "image31.jpg"
+    }
+  ]
+}

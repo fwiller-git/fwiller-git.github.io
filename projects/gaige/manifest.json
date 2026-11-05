@@ -1,14 +1,32 @@
 {
+  "order": 2,
   "title": "Gaige (SnuffyMcSnuff)",
-  "description": "Game-ready 3D model of [SnuffyMcSnuff‘s](https://bsky.app/profile/snuffymcsnuff.bsky.social) Gaige artwork. They’re a fantastic artist, please go follow them!",
-  "software": ["Blender", "Rizom UV", "Substance Painter"],
+  "description": "This is a game-ready 3D model I made of [SnuffyMcSnuff‘s](https://bsky.app/profile/snuffymcsnuff.bsky.social) Gaige artwork.\n\nThey’re a fantastic artist, please go follow them!",
+  "software": [
+    "Blender",
+    "Rizom UV",
+    "Substance Painter"
+  ],
   "tech": {
     "triangles": 38298,
     "materials": 1,
     "textureSize": "2048x2048"
   },
   "assets": [
-    { "file": "thumbnail.png", "caption": "Gaige (SnuffyMcSnuff)", "thumbnailOnly": true },
-    { "file": "thumbnail.png", "caption": "Thumbnail Render" }
+    {
+      "file": "image41.jpg"
+    },
+    {
+      "file": "video03.mp4"
+    },
+    {
+      "file": "image04.jpg"
+    },
+    {
+      "file": "image05.jpg"
+    },
+    {
+      "file": "image06.jpg"
+    }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "hidden": true,
+  "title": "Bombergrounds (3D Remake of Promo Art)",
+  "description": "This is a 3D re-creation of promo art for \"BomberGrounds\" by Gigantic Duck games. The focus was on creating low-poly assets.\n\nMade with Blender",
+  "assets": [
+    {
+      "file": "video12.mp4"
+    },
+    {
+      "file": "image24.jpg"
+    },
+    {
+      "file": "image28.jpg"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "order": 4,
+  "title": "Nature Spirit (Violet Spectrum)",
+  "description": "Original design by [VioletSpectrum](https://www.instagram.com/violetspectrum/)\n\nSculpted, Modeled, Rigged, and Textured in Blender 2.92",
+  "thumbnail": "thumbnail.jpg",
+  "assets": [
+    {
+      "file": "video09.mp4"
+    },
+    {
+      "file": "image20.jpg"
+    },
+    {
+      "file": "image21.jpg"
+    },
+    {
+      "file": "image22.jpg"
+    },
+    {
+      "file": "image23.jpg"
+    },
+    {
+      "file": "video10.mp4"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "order": 6,
+  "title": "Beat (Unbeatable)",
+  "description": "Here's a game ready character model based on D-Cell Games' \"Unbeatable\".\n\nModelled, Rigged, Animated in Blender. Textured in Substance.",
+  "thumbnail": "thumbnail.jpg",
+  "assets": [
+    {
+      "file": "video42.mp4"
+    },
+    {
+      "file": "image42.jpg"
+    },
+    {
+      "file": "image43.jpg"
+    }
+  ]
+}

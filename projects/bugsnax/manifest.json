@@ -1,0 +1,14 @@
+{
+  "order": 8,
+  "title": "Bugsnax 3D Remake of Promo Art",
+  "description": "This is a full 3D re-creation of Bugsnax promotional art. All character assets were made to be game-ready, while matching the 2D art as close possible.\n\nMade with Blender",
+  "thumbnail": "thumbnail.jpg",
+  "assets": [
+    {
+      "file": "video04.mp4"
+    },
+    {
+      "file": "image02.jpg"
+    }
+  ]
+}

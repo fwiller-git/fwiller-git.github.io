@@ -1,0 +1,32 @@
+{
+  "order": 7,
+  "title": "Fruit Golf Assets",
+  "description": "Here are a couple character assets made for Coal Car Studio's mobile VR game \"Fruit Golf\"\n\nI was responsible for concepting, modelling, texturing, rigging, and animating these characters (Floppy Shark and Giant Octopus). They are an incredible group of creative people, and it was a pleasure doing work with them. [fruitgolf.com](https://www.fruitgolf.com/)",
+  "thumbnail": "thumbnail.jpg",
+  "assets": [
+    {
+      "file": "video01.mp4"
+    },
+    {
+      "file": "video13.mp4"
+    },
+    {
+      "file": "video17.mp4"
+    },
+    {
+      "file": "video18.mp4"
+    },
+    {
+      "file": "video19.mp4"
+    },
+    {
+      "file": "image19.jpg"
+    },
+    {
+      "file": "image01.jpg"
+    },
+    {
+      "file": "video37.mp4"
+    }
+  ]
+}

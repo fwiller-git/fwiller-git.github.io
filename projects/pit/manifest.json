@@ -1,0 +1,28 @@
+{
+  "hidden": true,
+  "title": "Pit (Kid Icarus)",
+  "description": "Here's a goofy 3D model of Pit from Kid Icarus. Kid Icarus: Uprising is one of my favorite games of all time and I'd love to see the series return one day. I learned a lot while making this (and I'm particularly proud of cleanly packing the full character UVs in one map)\n\nLoosely based on a quick fanart sketch I made.\n\nModeled, Rigged, and Rendered in Blender 3.6 Textured in Substance Painter",
+  "assets": [
+    {
+      "file": "video02.mp4"
+    },
+    {
+      "file": "image07.jpg"
+    },
+    {
+      "file": "image08.jpg"
+    },
+    {
+      "file": "image09.jpg"
+    },
+    {
+      "file": "image10.jpg"
+    },
+    {
+      "file": "image11.png"
+    },
+    {
+      "file": "image12.jpg"
+    }
+  ]
+}

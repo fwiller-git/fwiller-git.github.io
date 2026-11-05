@@ -1,0 +1,17 @@
+{
+  "order": 3,
+  "title": "Zelda (VioletSpectrum)",
+  "description": "Sculpt of Zelda based directly on artwork by [VioletSpectrum](https://bsky.app/profile/violetspectrum.bsky.social)\n\nModelled, Sculpted, and Textured in Blender 5.2",
+  "thumbnail": "thumbnail.jpg",
+  "assets": [
+    {
+      "file": "image35.jpg"
+    },
+    {
+      "file": "video40.mp4"
+    },
+    {
+      "file": "image38.jpg"
+    }
+  ]
+}
