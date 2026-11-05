@@ -1,0 +1,26 @@
+{
+  "title": "Cider King",
+  "description": "Practice model based on Dreamthorn concept art (Cakefish). Check them out! [https://www.dreamthorn.com/](https://www.dreamthorn.com/)",
+  "software": ["Blender", "Rizom UV", "Substance Painter"],
+  "tech": {
+    "triangles": 15564,
+    "materials": 1,
+    "textureSize": "2048x2048",
+    "engine": "Unreal Engine 5"
+  },
+  "assets": [
+    { "file": "thumbnail.png", "caption": "Cider King", "thumbnailOnly": true },
+    { "file": "thumbnail.png", "caption": "Thumbnail Render" },
+    { "file": "full.png", "caption": "Full Render" },
+    { "file": "turnaround.mp4", "caption": "Turnaround Render" },
+    { "file": "clay.png", "caption": "Clay Render" },
+    { "file": "wireframe.png", "caption": "Wireframe" },
+    {
+      "before": "textures.png",
+      "after": "uvlayout.png",
+      "caption": "BaseColor Normal ORM with UV layout"
+    },
+    { "url": "https://www.youtube.com/watch?v=C_aaeJNhDo0", "caption": "Process Video" },
+    { "file": "ciderking.glb" }
+  ]
+}

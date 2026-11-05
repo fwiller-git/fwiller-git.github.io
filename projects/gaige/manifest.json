@@ -1,0 +1,14 @@
+{
+  "title": "Gaige (SnuffyMcSnuff)",
+  "description": "Game-ready 3D model of [SnuffyMcSnuff‘s](https://bsky.app/profile/snuffymcsnuff.bsky.social) Gaige artwork. They’re a fantastic artist, please go follow them!",
+  "software": ["Blender", "Rizom UV", "Substance Painter"],
+  "tech": {
+    "triangles": 38298,
+    "materials": 1,
+    "textureSize": "2048x2048"
+  },
+  "assets": [
+    { "file": "thumbnail.png", "caption": "Gaige (SnuffyMcSnuff)", "thumbnailOnly": true },
+    { "file": "thumbnail.png", "caption": "Thumbnail Render" }
+  ]
+}
