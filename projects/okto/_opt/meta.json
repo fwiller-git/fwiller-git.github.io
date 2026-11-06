@@ -1,0 +1,43 @@
+{
+  "image29.jpg": {
+    "mtime": 1793996249706.8652,
+    "width": 810,
+    "height": 810,
+    "widths": [
+      480,
+      810
+    ],
+    "color": "rgb(56, 56, 56)"
+  },
+  "image30.jpg": {
+    "mtime": 1793996249706.8652,
+    "width": 953,
+    "height": 635,
+    "widths": [
+      480,
+      953
+    ],
+    "color": "rgb(56, 56, 56)"
+  },
+  "image31.jpg": {
+    "mtime": 1793996249706.8652,
+    "width": 512,
+    "height": 512,
+    "widths": [
+      480,
+      512
+    ],
+    "color": "rgb(168, 104, 88)"
+  },
+  "thumbnail.png": {
+    "mtime": 1793996249707.8652,
+    "width": 1080,
+    "height": 1080,
+    "widths": [
+      480,
+      960,
+      1080
+    ],
+    "color": "rgb(40, 24, 24)"
+  }
+}

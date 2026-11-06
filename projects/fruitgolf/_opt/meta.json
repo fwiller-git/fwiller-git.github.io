@@ -1,0 +1,32 @@
+{
+  "image01.jpg": {
+    "mtime": 1793996249631.8652,
+    "width": 629,
+    "height": 621,
+    "widths": [
+      480,
+      629
+    ],
+    "color": "rgb(56, 56, 56)"
+  },
+  "image19.jpg": {
+    "mtime": 1793996249632.6443,
+    "width": 844,
+    "height": 388,
+    "widths": [
+      480,
+      844
+    ],
+    "color": "rgb(56, 56, 56)"
+  },
+  "thumbnail.jpg": {
+    "mtime": 1793996249632.6443,
+    "width": 817,
+    "height": 817,
+    "widths": [
+      480,
+      817
+    ],
+    "color": "rgb(56, 72, 72)"
+  }
+}
